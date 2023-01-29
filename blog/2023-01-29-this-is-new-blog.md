@@ -7,7 +7,7 @@ authors:
   - name: Shriansh Agarwal
     title: Shriansh Agarwal
     url: https://www.linkedin.com/in/shriansh-agarwal
-    imageUrl: https://pbs.twimg.com/profile_images/1390674737966108679/dYwVgEG9_400x400.jpg
+    imageUrl: https://avatars.githubusercontent.com/u/4089393?v=4
 ---
 H﻿ello World
 
